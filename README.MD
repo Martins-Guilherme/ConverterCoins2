@@ -23,14 +23,14 @@ Profit! 💸
 
 Tecnologias:
 
-HTML (o basicão)
-CSS (pra ficar bonito)
-JavaScript (onde a mágica acontece)
-API de cotações (porque matemática é com eles mesmo)
+HTML (o basicão)<br>
+CSS (pra ficar bonito)<br>
+JavaScript (onde a mágica acontece)<br>
+API de cotações (porque matemática é com eles mesmo)<br>
 
 Próximas ideias:
 
-Mais moedas?
-Histórico de conversões
-Gráfico da variação da taxa
-Modo escuro (porque 2025 né)
+Mais moedas?<br>
+Histórico de conversões?<br>
+Gráfico da variação da taxa?<br>
+Modo escuro (porque 2025 né)?<br>
