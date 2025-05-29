@@ -8,18 +8,18 @@ Por que criei?
 Estava cansado de abrir o Google toda vez que precisava converter Real pra Dólar (ou vice-versa). Aí pensei: "Por que não fazer o meu próprio?" E aqui estamos!
 Features que funcionam:
 
-✅ Conversão em tempo real
-✅ Interface que não machuca os olhos
-✅ Botão pra limpar tudo quando você zoa os números
-✅ Mostra a taxa de conversão (pra você saber se tá sendo roubado ou não 😅)
-✅ Responsivo (funciona no celular também)
+✅ Conversão em tempo real<br>
+✅ Interface que não machuca os olhos<br>
+✅ Botão pra limpar tudo quando você zoa os números<br>
+✅ Mostra a taxa de conversão (pra você saber se tá sendo roubado ou não 😅)<br>
+✅ Responsivo (funciona no celular também)<br>
 
 Como usar:
 
-Clone o repositório
-Abra o index.html no navegador
-Digite o valor, escolha as moedas
-Profit! 💸
+Clone o repositório<br>
+Abra o index.html no navegador<br>
+Digite o valor, escolha as moedas<br>
+Profit! 💸<br>
 
 Tecnologias:
 
